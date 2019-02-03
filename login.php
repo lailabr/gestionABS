@@ -21,7 +21,7 @@
                 break;
             case "scolarite":
                 ?>
-    <p id="bienvenu">Bienvenu scolarité</p>
+    <p id="bienvenu">Bienvenu scolarite</p>
     <?php
                 break;
         }
