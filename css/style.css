@@ -1,0 +1,53 @@
+
+.center {
+    margin: 0 auto;
+    width: 60%;
+    border: 3px solid paleturquoise;
+    padding: 10px;
+}
+#bienvenu{
+    color: #73AD21;
+    text-align: center;
+
+}
+#succes{
+    color:#73AD21;
+    text-align: center;
+
+}
+a{
+    text-decoration: none;
+
+}
+.buttons{
+    text-align: center;
+}
+
+#divFil{
+    display: inline;
+}
+#divConseil{
+    display: inline;
+}
+
+.etudiants th {
+    border: 1px gray dotted;
+    background: antiquewhite;
+}
+.etudiants td{
+    border: 1px gray dotted;
+    padding: 10px;
+    margin: 10px;
+    background: white;
+
+}
+
+div{
+    padding: 10px;
+    margin: 10px;
+
+}
+.faild{
+    color: red;
+}
+
